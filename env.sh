@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export GAMEMASTER_IP=127.0.0.1
+export GAMEMASTER_PORT=10000
