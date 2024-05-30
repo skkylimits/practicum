@@ -1,10 +1,10 @@
 version: '3'
 services:
   master:
-    build: .
+    build: ./src/master
     ports:
       - "10000:10000"
-  handelaar:
-    build: .
-    ports:
-      - "8000:8000"
+  # handelaar:
+  #   build: .
+  #   ports:
+  #     - "8000:8000"

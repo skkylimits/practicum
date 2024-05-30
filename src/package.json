@@ -1,8 +1,8 @@
 {
-  "name": "docker-demo",
+  "name": "game-master",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "GameMasterV1.js",
   "scripts": {
     "start": "node src/GameMasterV1.js"
   },
